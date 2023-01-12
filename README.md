@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nAFmRomUV3o_KBHA99DhY6KVPulDDGgh/view?usp=sharing](https://drive.google.com/file/d/1nAFmRomUV3o_KBHA99DhY6KVPulDDGgh/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nisha-chandrakant-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nisha-chandrakant-yadav" height="30" width="40" /></a>
