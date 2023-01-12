@@ -1,5 +1,5 @@
 [![MasterHead](https://www.vackergroup.ae/wp-content/uploads/2016/04/Iot-cover-image.gif)]
-<h1 align="center">Hi 👋, I'm NISHA YADAV</h1>
+<h1 align="center">Hi 👋, I'm Nisha Yadav</h1>
 <h3 align="center">I am a Professional Embedded Hardware Design Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
