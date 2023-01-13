@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Hardware design, PCB design**
 
-- 📫 How to reach me **yadavnisha851@gmail.comm**
+- 📫 How to reach me **yadavnisha851@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nAFmRomUV3o_KBHA99DhY6KVPulDDGgh/view?usp=sharing](https://drive.google.com/file/d/1nAFmRomUV3o_KBHA99DhY6KVPulDDGgh/view?usp=sharing)
 
